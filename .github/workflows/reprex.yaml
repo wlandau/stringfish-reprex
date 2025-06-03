@@ -14,11 +14,11 @@ jobs:
         run: |
           install.packages(
             "stringfish",
-            repos = "https://packagemanager.posit.co/cran/__linux__/noble/2024-12-01"
+            repos = "https://packagemanager.posit.co/cran/__linux__/noble/2025-06-02"
           )
           install.packages(
             "stringfish",
-            repos = "https://packagemanager.posit.co/cran/__linux__/noble/2024-12-01"
+            repos = "https://packagemanager.posit.co/cran/__linux__/noble/2025-06-02"
           )
           install.packages(
             "stringfish",
